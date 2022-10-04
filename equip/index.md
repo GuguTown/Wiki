@@ -1,4 +1,4 @@
-[**回Wiki首页**](README.md)
+[**回Wiki首页**](../README.md)
 # 装备列表
 
 
