@@ -1,9 +1,6 @@
 [**回Wiki首页**](../README.md)
 # 装备列表
-[装备表](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=LusGP9)
-
-![image](https://user-images.githubusercontent.com/35645329/193932557-2fdb20b6-55e2-47dc-96b2-4d37fdb03615.png)
-来源：agaisiki   
+[装备表](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=LusGP9) 
 
 ## 武器位
 
@@ -70,3 +67,7 @@
 【[蓝银葡萄护身符](葡萄.md)】    
 
 【[紫晶樱桃护身符](樱桃.md)】    
+
+## 武器选择
+![image](https://user-images.githubusercontent.com/35645329/193932557-2fdb20b6-55e2-47dc-96b2-4d37fdb03615.png)
+来源：agaisiki  
