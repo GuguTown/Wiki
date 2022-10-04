@@ -7,7 +7,8 @@
 咕咕镇PC验证器   
 咕咕镇计算器图形化界面   
 
-## Web项目
+## WebPages
+[NPC的基本数据、装备数据等](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=RrBvBc)
 [桃子镇——整合各种脚本的咕咕镇非官方反代](https://github.com/HazukiKaguya/GuguTownProxy)
 
 ## 油猴脚本
