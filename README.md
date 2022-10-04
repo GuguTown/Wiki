@@ -2,9 +2,9 @@
 欢迎来到咕咕镇Wiki！   
 您可以编辑Wiki提交PR等待库所有者通过合并请求，或者申请加入合作者后实时自由编辑该Wiki！   
 
-【[角色介绍](char.md)】   
+【[角色介绍](char/index.md)】   
 
-【[装备列表](equip.md)】   
+【[装备列表](equip/index.md)】   
 
 【[更新记录](changelog.md)】   
 
