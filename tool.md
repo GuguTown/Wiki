@@ -1,4 +1,4 @@
-[编辑本页](https://github.com/GuguTown/Wiki/edit/main/tool.md)
+[编辑本条目](https://github.com/GuguTown/Wiki/edit/main/tool.md)
 # 实用工具
 咕咕镇的一些实用工具
 
