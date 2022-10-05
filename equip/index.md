@@ -8,19 +8,19 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/193943792-998524c6-1018-489c-a598-42b8fb97067a.png) [探险者短杖](探险者短杖.md)   
 
- [狂信者的荣誉之刃](狂信者的荣誉之刃.md)   
+![image](https://user-images.githubusercontent.com/35645329/193961508-6b9ac419-9dc4-495c-af71-93fb6a6d9a75.png) [狂信者的荣誉之刃](狂信者的荣誉之刃.md)   
 
- [反叛者的刺杀弓](反叛者的刺杀弓.md)    
+![image](https://user-images.githubusercontent.com/35645329/193961676-9c5e806e-2077-44bb-b54e-7029998eba46.png) [反叛者的刺杀弓](反叛者的刺杀弓.md)    
 
- [幽梦匕首](幽梦匕首.md)    
+![image](https://user-images.githubusercontent.com/35645329/193961859-0ba2de37-7ca2-4aeb-b286-aacc400d3e4b.png) [幽梦匕首](幽梦匕首.md)    
 
- [光辉法杖](光辉法杖.md)     
+![image](https://user-images.githubusercontent.com/35645329/193962047-d4b1109c-60df-425b-8828-608205c59de7.png) [光辉法杖](光辉法杖.md)     
 
- [荆棘盾剑/剑盾](荆棘盾剑.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962152-8ba435a3-e814-43c5-9561-94597cf08075.png) [荆棘盾剑/剑盾](荆棘盾剑.md)    
 
- [陨铁重剑](陨铁重剑.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962270-9058a005-bdea-45fe-b21b-998bdd140792.png) [陨铁重剑](陨铁重剑.md)    
 
- [饮血魔剑/长枪](饮血魔剑.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962396-d0351d78-1fda-49cc-93cb-d746695ab6c4.png) [饮血魔剑/长枪](饮血魔剑.md)    
 
 ## 手部
 
@@ -54,11 +54,11 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/193944087-f7b279fd-0c47-4697-9d48-8b45bc253dae.png) [探险者耳饰/头巾](探险者耳饰.md)    
  
- [占星师的耳饰/发饰](占星师的耳饰.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962562-baada598-5a16-49e8-84ef-6e0950874a58.png) [占星师的耳饰/发饰](占星师的耳饰.md)    
 
- [萌爪耳钉/天使缎带](萌爪耳钉.md)     
+![image](https://user-images.githubusercontent.com/35645329/193962529-ddeb0ffc-4f88-47c3-b021-2b0167beb1cf.png) [萌爪耳钉/天使缎带](萌爪耳钉.md)     
 
- [樱桃头饰](樱桃头饰.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962583-2f338af2-eab7-463a-8e0d-fd31866c88a6.png) [樱桃头饰](樱桃头饰.md)    
 
 ## 护符类饰品
 
