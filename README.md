@@ -1,7 +1,7 @@
 [编辑本条目](https://github.com/GuguTown/Wiki/edit/main/README.md)
 # 咕咕镇Wiki
 欢迎来到咕咕镇Wiki！   
-您可以在[此Wiki的Github库](https://github.com/GuguTown/Wiki)编辑Wiki提交PR等待库所有者通过合并请求，或者申请加入组织后实时自由编辑该Wiki！   
+您可以在登录Github后编辑Wiki条目并提交PR等待Wiki组审核通过修改，或者申请加入Wiki组后自行增加/修改条目！   
 
 【[角色介绍](char/index.md)】   
 
