@@ -1,3 +1,4 @@
+[编辑本页](https://github.com/GuguTown/Wiki/edit/main/changelog.md)
 # 更新记录
 这里是咕咕镇的更新记录，部分更新内容有丢失，欢迎提交PR。
 
