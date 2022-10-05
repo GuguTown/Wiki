@@ -62,11 +62,11 @@
 
 ## 护符类饰品
 
- [星铜苹果护身符](苹果.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962936-85ef6c41-9390-4455-ab14-3b9a17edea54.png) [星铜苹果护身符](苹果.md)    
 
- [蓝银葡萄护身符](葡萄.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962912-ff629c42-4cac-4b4c-a5d8-48d7909c56f1.png) [蓝银葡萄护身符](葡萄.md)    
 
- [紫晶樱桃护身符](樱桃.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962982-5d91125a-9fd3-4376-8a4c-8c3a7a388253.png) [紫晶樱桃护身符](樱桃.md)    
 
 ## 装备选择指南
 [装备表](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=LusGP9)    
