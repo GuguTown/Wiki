@@ -3,6 +3,8 @@
 
 *装备Wiki页面加粗的条目可有限度的作为筛选参考。*
 
+***装备Wiki页面的计算公式在计算时每一步均需要向下取整***
+
 ## 武器
 ![image](https://user-images.githubusercontent.com/35645329/193943455-16c3300f-0995-47fb-bad3-b97333d3ebf8.png) [探险者之剑](探险者之剑.md)   
 
