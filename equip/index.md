@@ -1,3 +1,4 @@
+[编辑本条目](https://github.com/GuguTown/Wiki/edit/main/equip/index.md)
 # 装备列表
 [装备选择指南](#装备选择指南)   
 
