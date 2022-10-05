@@ -56,7 +56,7 @@
 
 ## 头部
 
-![image](https://user-images.githubusercontent.com/35645329/193944087-f7b279fd-0c47-4697-9d48-8b45bc253dae.png) [探险者耳饰/头巾](探险者耳饰.md)    
+![image](https://user-images.githubusercontent.com/35645329/193944087-f7b279fd-0c47-4697-9d48-8b45bc253dae.png) [探险者耳环/头巾](探险者耳环.md)    
  
 ![image](https://user-images.githubusercontent.com/35645329/193962562-baada598-5a16-49e8-84ef-6e0950874a58.png) [占星师的耳饰/发饰](占星师的耳饰.md)    
 
