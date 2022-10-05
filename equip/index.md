@@ -2,9 +2,8 @@
 # 装备列表
 [装备选择指南](#装备选择指南)   
 
-***装备Wiki页面加粗的条目可有限度的作为筛选参考。***
-
-***装备Wiki页面的装备各项属性的计算公式和floor()内部公式的最终计算结果需要向下取整***
+<p><font color="#FF0000"><b><i>装备Wiki页面加粗并标红的条目可有限度的作为筛选参考。</i></b></font></p>
+<p><font color="#FF0000"><b><i>装备Wiki页面的装备各项属性的计算公式和floor()内部公式的最终计算结果需要向下取整</i></b></font></p>
 
 ## 武器
 ![image](https://user-images.githubusercontent.com/35645329/193943455-16c3300f-0995-47fb-bad3-b97333d3ebf8.png) [探险者之剑](探险者之剑.md)   
@@ -76,6 +75,6 @@
 ## 装备选择指南
 [装备表](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=LusGP9)    
 
-选择指南图，来源：agaisiki ：
+*选择指南图，来源：agaisiki ：*
 ![image](https://user-images.githubusercontent.com/35645329/193932557-2fdb20b6-55e2-47dc-96b2-4d37fdb03615.png)
  
