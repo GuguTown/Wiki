@@ -153,5 +153,5 @@
 【抢占先机】装备远程武器时，第一回合必定自己先攻，第一回合必暴击
 
 
-<div id="gitalk-container"></div>
+<div id="container"></div>
 
