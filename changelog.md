@@ -4,6 +4,8 @@
 
 [去页尾评论](#评论)
 
+<script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
+
 # 2022/10/06
 基础属性“智力”改为“每200智力+1%护盾回复”，原“每70智力+1%护盾回复”。   
 海滩收获中“强制刷新，立即获得下一批随机装备”改为需求贝壳，不再需要星沙。   
