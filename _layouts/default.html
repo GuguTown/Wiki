@@ -1,4 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-    {{ content }}
+    {% head.html %}
+    <body>
+        {% nav.html %}
+        {{ content }}
+        {% footer.html %}
+    </body>
 </html>
