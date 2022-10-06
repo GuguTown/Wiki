@@ -13,6 +13,8 @@
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="咕咕镇Wiki" />
+<link rel="stylesheet" href="/Wiki/assets/css/style.css?v=464b9b6f7735fa89b03121dc76761fffb68aa1e1">
+<link rel="shortcut icon" href="/Wiki/favicon.ico">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","description":"咕咕镇Wiki","headline":"咕咕镇Wiki","url": window.location.href }</script>
 <script>
@@ -23,26 +25,17 @@
       var uzipStr = ''; 
       for (var i = 0; i < zipStr.length; i += 1) {
         var chr = zipStr.charAt(i); 
-        if (chr === '+') { 
-        uzipStr += ' ';
-        } else if (chr === '%') { 
-        var asc = zipStr.substring(i + 1, i + 3); 
-        if (parseInt('0x' + asc) > 0x7f) {
-            uzipStr += decodeURI('%' + asc.toString() + zipStr.substring(i+3, i+9).toString()); 
-            i += 8;
-        }else{ 
-            uzipStr += AsciiToString(parseInt('0x' + asc)); 
-            i += 2;
-        } 
-        }else{ 
-        uzipStr += chr; 
-      } 
+        if (chr === '+') { uzipStr += ' '; } 
+        else if (chr === '%') { 
+          var asc = zipStr.substring(i + 1, i + 3); 
+          if (parseInt('0x' + asc) > 0x7f) { uzipStr += decodeURI('%' + asc.toString() + zipStr.substring(i+3, i+9).toString()); i += 8; }
+          else{ uzipStr += AsciiToString(parseInt('0x' + asc)); i += 2; }
+        }
+        else{ uzipStr += chr; } 
     } 
   return uzipStr; 
 } 
 </script>
-<link rel="stylesheet" href="/Wiki/assets/css/style.css?v=464b9b6f7735fa89b03121dc76761fffb68aa1e1">
-<link rel="shortcut icon" type="image/x-icon" href="/Wiki/favicon.ico" >
 </head>
     <body>
         <div class="container-lg px-3 my-5 markdown-body">
