@@ -1,9 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% layouts head.html %}
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>咕咕镇Wiki</title>
+<meta property="og:title" content="咕咕镇Wiki" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="网页游戏 咕咕镇Wiki" />
+<meta property="og:description" content="网页游戏 咕咕镇Wiki" />
+<meta property="og:site_name" content="咕咕镇Wiki" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="咕咕镇Wiki" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"咕咕镇Wiki","headline":"咕咕镇Wiki","url": window.location.href }</script>
+<script>
+    let title= window.location.pathname;title=UrlDecode(title);
+    title=title.replace(/Wiki/g,"咕咕镇Wiki").replace(/equip/g,"装备").replace(/char/g,"角色").replace(/article/g,"文章");
+    document.title = title;
+</script>
+<link rel="stylesheet" href="/Wiki/assets/css/style.css?v=464b9b6f7735fa89b03121dc76761fffb68aa1e1">
+<link rel="shortcut icon" type="image/x-icon" href="/Wiki/favicon.ico" >
+</head>
     <body>
-        {% layouts nav.html %}
-        {{ content }}
-        {% layouts footer.html %}
+        <div class="container-lg px-3 my-5 markdown-body">
+            <h1><a href="https://gugutown.github.io/Wiki/">咕咕镇Wiki</a></h1>
+            {{ content }}
+        </div>
     </body>
 </html>
