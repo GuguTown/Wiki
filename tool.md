@@ -17,4 +17,6 @@
 [咕咕镇沙滩自动刷新](https://greasyfork.org/scripts/397225)   
 [咕咕镇剩余价值收割机](https://greasyfork.org/scripts/408937)
 
-<div id="gitalk-container"></div>
+# 讨论
+
+<script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
