@@ -3,6 +3,7 @@
 [装备选择指南](#装备选择指南)
 <p><font color="#FF0000"><b><i>装备Wiki页面加粗并标红的条目可有限度的作为筛选参考。</i></b></font></p>
 <p><font color="#FF0000"><b><i>装备Wiki页面的装备各项属性的计算公式和floor()内部公式的最终计算结果需要向下取整</i></b></font></p>
+
 ## 讨论
 
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
