@@ -19,6 +19,27 @@
     let title= window.location.pathname;title=UrlDecode(title);
     title=title.replace(/Wiki/g,"咕咕镇Wiki").replace(/equip/g,"装备").replace(/char/g,"角色").replace(/article/g,"文章");
     document.title = title;
+    function UrlDecode(zipStr){ 
+      var uzipStr = ''; 
+      for (var i = 0; i < zipStr.length; i += 1) {
+        var chr = zipStr.charAt(i); 
+        if (chr === '+') { 
+        uzipStr += ' ';
+        } else if (chr === '%') { 
+        var asc = zipStr.substring(i + 1, i + 3); 
+        if (parseInt('0x' + asc) > 0x7f) {
+            uzipStr += decodeURI('%' + asc.toString() + zipStr.substring(i+3, i+9).toString()); 
+            i += 8;
+        }else{ 
+            uzipStr += AsciiToString(parseInt('0x' + asc)); 
+            i += 2;
+        } 
+        }else{ 
+        uzipStr += chr; 
+      } 
+    } 
+  return uzipStr; 
+} 
 </script>
 <link rel="stylesheet" href="/Wiki/assets/css/style.css?v=464b9b6f7735fa89b03121dc76761fffb68aa1e1">
 <link rel="shortcut icon" type="image/x-icon" href="/Wiki/favicon.ico" >
