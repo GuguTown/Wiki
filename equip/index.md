@@ -1,12 +1,10 @@
 [编辑本条目](https://github.com/GuguTown/Wiki/edit/main/equip/index.md)
 # 装备列表
-[装备选择指南](#装备选择指南)
+[装备选择指南](#装备选择指南)   
+
+[**查看讨论**](#讨论)   
 <p><font color="#FF0000"><b><i>装备Wiki页面加粗并标红的条目可有限度的作为筛选参考。</i></b></font></p>
 <p><font color="#FF0000"><b><i>装备Wiki页面的装备各项属性的计算公式和floor()内部公式的最终计算结果需要向下取整</i></b></font></p>
-
-## 讨论
-
-<script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
 ## 武器
 ![image](https://user-images.githubusercontent.com/35645329/193943455-16c3300f-0995-47fb-bad3-b97333d3ebf8.png) [探险者之剑](探险者之剑.md)   
@@ -80,5 +78,3 @@
 
 *选择指南图，来源：agaisiki ：*
 ![image](https://user-images.githubusercontent.com/35645329/193932557-2fdb20b6-55e2-47dc-96b2-4d37fdb03615.png)
- 
-<div id="gitalk-container"></div>
