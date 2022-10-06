@@ -19,7 +19,7 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"咕咕镇Wiki","headline":"咕咕镇Wiki","url": window.location.href }</script>
 <script>
     let title= window.location.pathname;title=UrlDecode(title);
-    title=title.replace(/Wiki/g,"咕咕镇Wiki").replace(/equip/g,"装备").replace(/char/g,"角色").replace(/article/g,"文章").replace(/.html/g,"》").replace(/\//g," 》");
+    title=title.replace(/Wiki/g,"咕咕镇Wiki").replace(/equip/g,"装备").replace(/char/g,"角色").replace(/article/g,"文章").replace(/.html/g," 》").replace(/\//g," 》");
     document.title = title;
     function UrlDecode(zipStr){ 
       var uzipStr = ''; 
