@@ -1,6 +1,5 @@
 [编辑本条目](https://github.com/GuguTown/Wiki/edit/main/equip/index.md)
 # 装备列表
-[装备选择指南](#装备选择指南)   
 
 [**查看讨论**](#讨论)   
 <p><font color="#FF0000"><b><i>装备Wiki页面加粗并标红的条目可有限度的作为筛选参考。</i></b></font></p>
