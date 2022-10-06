@@ -1,6 +1,8 @@
 [编辑本条目](https://github.com/GuguTown/Wiki/edit/main/char/index.md)
 # 角色介绍
 【[默](#默)】   【[琳](#琳)】   【[艾](#艾)】   【[梦](#梦)】   【[薇](#薇)】   【[伊](#伊)】   【[冥](#冥)】   【[命](#命)】   【[舞](#舞)】   【[希](#希)】
+## 讨论
+<script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
 # 默
 ### 介绍
