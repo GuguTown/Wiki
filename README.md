@@ -12,3 +12,5 @@
 【[实用工具](https://gugutown.github.io/Wiki/tool.html)】   
 
 【[攻略心得](https://gugutown.github.io/Wiki/article/index.html)】   
+
+【[Github](https://github.com/GuguTown/Wiki)】
