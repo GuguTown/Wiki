@@ -2,7 +2,7 @@
 # 更新记录
 这里是咕咕镇的更新记录，部分更新内容有丢失，欢迎提交PR。
 
-<div id="gitalk-container"></div>
+<div id="gitalk-container"></div><script src="https://sticker.inari.site/js/gitalks2.js"></script>
 
 # 2022/10/05 -2
 争夺战场中“恢复体力到100”改为需求贝壳，原星沙。   
