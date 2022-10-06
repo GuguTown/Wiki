@@ -12,7 +12,3 @@
 【[实用工具](tool.md)】   
 
 【[攻略心得](article/index.md)】   
-
-## 讨论
-
-<script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
