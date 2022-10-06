@@ -13,3 +13,5 @@
 【[实用工具](https://gugutown.github.io/Wiki/tool.html)】   
 
 【[攻略心得](https://gugutown.github.io/Wiki/article/index.html)】   
+
+【[建议反馈](https://gugutown.github.io/Wiki/feedback.html)】
