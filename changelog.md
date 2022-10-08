@@ -4,6 +4,9 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2022/10/08 -2
+今天无更新，不能留白，10月9日第一张翻牌附送10星沙好了。
+
 # 2022/10/07-08
 好运奖励额外翻牌的消耗改为贝壳，原星沙。   
 好运奖励贝壳基准值增加100%（实际获得量增加也是100%，因为是乘法的计算）。   
