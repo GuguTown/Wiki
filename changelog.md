@@ -4,6 +4,9 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2022/10/10
+无更，赴医，送贝。
+
 # 2022/10/09
 今天真没更新。为明天去医院做准备，更新没写完。那......还是10月10日第一张翻牌附送1000000贝壳吧。
 
