@@ -4,6 +4,16 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2022/10/14
+想要白嫖双VIP吗？去SSS吧！   
+
+SSS段位现在自动获得BVIP和SVIP。   
+SS和S段位自动获得BVIP。   
+
+由于段位奖励的VIP不会暂停已有VIP的时间流逝（改不了，因为数据库里记录的不是VIP起始日期和天数，而是截止日期），后续会少量增加VIP重叠的奖励。   
+大概就是“战斗额外送一点贝壳（日常获取量10%以内）”之类的奖励，态度上安抚VIP流失玩家受伤的心灵，又不能太多，因为多给了又有逼氪党开团“逼人花钱叠VIP”了，体谅一下。   
+这个“后续”的时间会尽快，现在次密接被隔离了，更新时间不定。   
+
 # 2022/10/12
 星沙锻造功能改为贝壳锻造，每次锻造需280W贝壳。   
 更新物品“锻造材料箱”。效果锻造装备进度条+50%。在好运奖励中抽取，替换原本一张沙滩装备牌。   
