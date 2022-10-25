@@ -24,11 +24,12 @@
         .replace(/function/g,"介绍").replace(/shop/g,"商店").replace(/index/g,"目录").replace(/changelog/g,"更新记录").replace(/.html/g," 》").replace(/\//g," 》");
     document.title = title;
     window.onload = function(){
-      let link=document.querySelectorAll('p>a'),links=document.getElementById("讨论");
+      let link=document.querySelectorAll('p>a'),links=document.getElementById("history");
       if(link[0].href.indexOf('https://github.com/GuguTown/Wiki/edit/main/')>-1){
         let hislink=link[0].href.replace(/edit/g,'commits');
-        let history = document.createElement('p');
-        history.innerHTML = `<a href="${hislink}">条目变更记录</a>`;
+        let history = document.createElement('a');
+        history.href=hislink;
+        history.innerHTML = "条目变更记录";
         links.append(history);
       };
     };
@@ -54,6 +55,7 @@
             {{ content }}
             <h2 id="讨论">讨论</h2>
             <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
+            <p id="history"></p>
         </div>
     </body>
 </html>
