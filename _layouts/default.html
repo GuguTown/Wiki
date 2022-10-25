@@ -29,7 +29,7 @@
         let hislink=link[0].href.replace(/edit/g,'commits');
         let history = document.createElement('p');
         history.innerHTML = `<a href="${hislink}">条目变更记录</a>`;
-        links[0].append(history);
+        links.append(history);
       };
     };
     function UrlDecode(zipStr){ 
