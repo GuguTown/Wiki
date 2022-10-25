@@ -18,10 +18,17 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","description":"咕咕镇Wiki","headline":"咕咕镇Wiki","url": window.location.href }</script>
 <script>
-    let title= window.location.pathname;title=UrlDecode(title);
+    let title= window.location.pathname,link=document.querySelectorAll('p>a'),links=document.querySelectorAll('p');
+    title=UrlDecode(title);
     title=title.replace(/Wiki/g,"咕咕镇Wiki").replace(/equip/g,"装备").replace(/char/g,"角色").replace(/article/g,"文章").replace(/tool/g,"工具")
         .replace(/function/g,"介绍").replace(/shop/g,"商店").replace(/index/g,"目录").replace(/changelog/g,"更新记录").replace(/.html/g," 》").replace(/\//g," 》");
     document.title = title;
+    if(link[0].href.indexOf('https://github.com/GuguTown/Wiki/edit/main/')>-1){
+       let hislink=link[0].href.replace(/edit/g,'commits');
+       let history = document.createElement('p');
+       history.innerHTML = `<a href="${hislink}">条目变更记录</a>`;
+       links[0].append(history);
+    };
     function UrlDecode(zipStr){ 
       var uzipStr = ''; 
       for (var i = 0; i < zipStr.length; i += 1) {
@@ -33,14 +40,15 @@
           else{ uzipStr += AsciiToString(parseInt('0x' + asc)); i += 2; }
         }
         else{ uzipStr += chr; } 
-    } 
-  return uzipStr; 
-} 
+       } 
+       return uzipStr; 
+    }
 </script>
 </head>
     <body>
         <div class="container-lg px-3 my-5 markdown-body">
             <h1><a href="https://gugutown.github.io/Wiki/">咕咕镇Wiki</a></h1>
+            <p><a id="history" href="/">条目变更记录</a></p>
             {{ content }}
             <h2 id="讨论">讨论</h2>
             <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
