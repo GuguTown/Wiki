@@ -13,7 +13,7 @@
 []()   
 # 专题
 ## 咕咕镇信息收集整理（作者：[gskrpb](https://github.com/gskrpb)）
-[实用工具整理](gskrpb/.md)   
+[实用工具整理](gskrpb/实用工具整理.md)   
 [咕咕镇注意事项](gskrpb/咕咕镇注意事项.md)   
 [版面说明](gskrpb/版面说明.md)   
 [关于好运奖励和装备前缀的实验验证](gskrpb/关于好运奖励和装备前缀的实验验证.md)   
