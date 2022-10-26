@@ -4,11 +4,11 @@
 
 您可以在登录 [GitHub](https://github.com/GuguTown/Wiki) 后编辑Wiki条目并提交PR等待Wiki组审核通过修改，或者申请加入Wiki组后自行增加/修改条目！   
 
-【[游戏介绍](/function/index.html)】   
+【[游戏介绍](https://gugutown.github.io/Wiki/function/index.html)】   
 
-【[角色介绍](/char/index.html)】   
+【[角色介绍](https://gugutown.github.io/Wiki/char/index.html)】   
 
-【[装备列表](/equip/index.html)】   
+【[装备列表](https://gugutown.github.io/Wiki/equip/index.html)】   
 
 【[商店介绍](/shop.md)】   
 
@@ -16,6 +16,6 @@
 
 【[实用工具](/tool.md)】   
 
-【[攻略心得](/article/index.html)】   
+【[攻略心得](https://gugutown.github.io/Wiki/article/index.html)】   
 
 【[建议反馈](/feedback.md)】
