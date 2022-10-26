@@ -4,7 +4,7 @@
 
 您可以在登录 [GitHub](https://github.com/GuguTown/Wiki) 后编辑Wiki条目并提交PR等待Wiki组审核通过修改，或者申请加入Wiki组后自行增加/修改条目！   
 
-【[游戏介绍](https://gugutown.github.io/Wiki/function.html)】   
+【[游戏介绍](https://gugutown.github.io/Wiki/function/index.html)】   
 
 【[角色介绍](https://gugutown.github.io/Wiki/char/index.html)】   
 
