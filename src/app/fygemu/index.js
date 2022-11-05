@@ -577,7 +577,7 @@ ${
                 <hr>
                 <div class="btn-group">
                     <button type="button" class="btn btn-lg${gLocale == "zz" ? " btn-primary" : ""}" onclick="window.gLocale='zz'; reload();">DEBUG</button>
-                    <button type="button" class="btn btn-lg${gLocale == "cs" ? " btn-primary" : ""}" onclick="window.gLocale='cs'; reload();">簡體中文</button>
+                    <button type="button" class="btn btn-lg${gLocale == "cs" ? " btn-primary" : ""}" onclick="window.gLocale='cs'; reload();">简体中文</button>
                     <button type="button" class="btn btn-lg${gLocale == "ct" ? " btn-primary" : ""}" onclick="window.gLocale='ct'; reload();">繁體中文</button>
                     <button type="button" class="btn btn-lg${gLocale == "jp" ? " btn-primary" : ""}" onclick="window.gLocale='jp'; reload();">日本語</button>
                 </div>
