@@ -17,6 +17,3 @@
 [咕咕镇数据采集](https://greasyfork.org/scripts/445173)   
 [咕咕镇沙滩自动刷新](https://greasyfork.org/scripts/397225)   
 [咕咕镇剩余价值收割机](https://greasyfork.org/scripts/408937)
-
-## 绯月原帖
-[咕咕镇对战模拟器](https://kf.miaola.work/read.php?tid=966255&sf=1a3)
