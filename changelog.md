@@ -4,6 +4,11 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2022/02/01
+更新延后，暂时回滚到未更新状态。作为补偿好运奖励中，每天第一张牌送500W贝壳。
+
+预计延后1-2天。
+
 # 2022/12/31
 好运奖励中，2023年1月1日起 至 2023年一次更新止，每天第一张牌送100W贝壳，作为拖更补偿。   
 
