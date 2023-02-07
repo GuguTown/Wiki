@@ -4,6 +4,12 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/07
+降低野怪的胜率百分比。
+装备锻造改为指定装备，原随机。
+增加一个预防特定BUG的额外机制，无体感。
+修改一个显示错误。
+
 # 2023/02/06 -2
 角色卡片的品质上限改为11%，原10%。   
 角色卡片的技能位上限改为7，原6。   
