@@ -3,9 +3,8 @@
 咕咕镇的一些实用工具
 
 ## 应用程序
-**咕咕镇计算器：** 【[下载](src/app/newkf0.4.5.5.rar)】  【[教程](article/calc_README.md)】   
-**咕咕镇PC数据验证器：** 【[下载](src/app/newkfcalc0.1.9.9.rar)】  【[教程](article/pcauth_README.md)】   
-**咕咕镇计算器图形化界面（年久失修）：**  【[下载Part1](src/app/gugui2.22.part1.rar)】 【[下载Part2](src/app/gugui2.22.part2.rar)】  【[教程](article/calcgui_README.md)】   
+**咕咕镇计算器：** 【[下载](src/app/newkf0.5.0.2.rar)】  【[教程](article/calc_README.md)】   
+**咕咕镇PC数据验证器：** 【[下载](src/app/newkfcalc0.1.9.9.rar)】  【[教程](article/pcauth_README.md)】     
 
 ## WebPages
 [NPC的基本数据、装备数据等](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=RrBvBc)   
