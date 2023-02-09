@@ -3,7 +3,7 @@
 咕咕镇的一些实用工具
 
 ## 应用程序
-**咕咕镇计算器：** 【[下载](src/app/newkf0.5.0.5.rar)】  【[教程](article/calc_README.md)】   
+**咕咕镇计算器（0.5.0.5）：** 【[下载](src/app/newkf0.5.0.5.rar)】  【[教程](article/calc_README.md)】   
 **咕咕镇PC数据验证器：** 【[下载](src/app/newkfcalc0.1.9.9.rar)】  【[教程](article/pcauth_README.md)】     
 
 ## WebPages
