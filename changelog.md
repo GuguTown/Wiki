@@ -4,6 +4,13 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/09
+降低操作时间，现在每日翻牌的狗牌需求改为1枚，原10枚。注：仍可多次出击获得最多10枚，但目前没有额外奖励。   
+连胜连败机制由累积增/减进度分，改为：连胜5场升段，连败5场降段，中间任意一场中断就重新计算（单场胜负仍为1%升降）。   
+降低CC\CCC\B\BB\BBB\A\S的野怪等级上限。   
+降段时段位进度99%，原80%。   
+取消翻牌未获得奖励时的“请继续翻牌”提示。   
+
 # 2023/02/08 -2
 降低A\B\C大段的野怪等级上限。
 
