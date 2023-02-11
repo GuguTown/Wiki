@@ -4,6 +4,10 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/11
+等级转换改为“选择一张卡片与当前卡片互换等级”，原“本卡片与自己最高等级的卡片互换等级”。   
+每日转换次数改为2次（原1次），方便后悔换回来。
+
 # 2023/02/10 -3
 角色卡片详细页面新增“等级转换”功能，可让本卡片与自己最高等级的卡片互换等级。   
 
