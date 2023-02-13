@@ -5,9 +5,9 @@
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
 # 2023/02/12
-升段时段位进度1%，原0%。
-SVIP新增对第一张牌的透视效果。
-修改了一处JS刷新方式，修正了2处描述错误。
+升段时段位进度1%，原0%。    
+SVIP新增对第一张牌的透视效果。     
+修改了一处JS刷新方式，修正了2处描述错误。        
 
 # 2023/02/11
 等级转换改为“选择一张卡片与当前卡片互换等级”，原“本卡片与自己最高等级的卡片互换等级”。   
