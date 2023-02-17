@@ -4,6 +4,17 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/17    
+争夺战斗SSS段，连胜+20进度、连败-20进度。（原连连败掉段）    
+现在连败5场直接获得1枚狗牌。    
+提升20%许愿池获得红色和黑色词条的概率。    
+修正一处逻辑错误。    
+
+# 2023/02/13    
+宝石工坊，第四个工作台新增宝石原石产出。    
+首页增加“提升宝石”功能，用于提升宝石工坊中的宝石持有量。提升宝石需要使用到宝石原石。     
+修正一处描述错误。    
+
 # 2023/02/12
 升段时段位进度1%，原0%。    
 SVIP新增对第一张牌的透视效果。     
