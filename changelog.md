@@ -4,6 +4,11 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/18    
+新增角色卡片“霞”。可在提升卡片功能中获得。     
+“希”的技能“血之狂暴”改为“增加(成长值x1)的最大生命值”，原“增加(成长值x0.5)的最大生命值”。     
+修正一处文字错误。      
+
 # 2023/02/17    
 争夺战斗SSS段，连胜+20进度、连败-20进度。（原连连败掉段）    
 现在连败5场直接获得1枚狗牌。    
