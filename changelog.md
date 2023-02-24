@@ -4,6 +4,11 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/23     
+重做装备“萌爪耳钉”的四条属性，神秘属性不变。     
+装备数值现在精确到小数点后1位（舍去法），属性数值现在精确到小数点后2位（四舍五入法）。      
+换卡后需重新选择天赋光环。       
+
 # 2023/02/18    
 新增角色卡片“霞”。可在提升卡片功能中获得。     
 “希”的技能“血之狂暴”改为“增加(成长值x1)的最大生命值”，原“增加(成长值x0.5)的最大生命值”。     
