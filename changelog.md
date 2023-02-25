@@ -4,6 +4,9 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/24
+宝石工坊，第五个工作台新增星沙产出。         
+
 # 2023/02/23     
 重做装备“萌爪耳钉”的四条属性，神秘属性不变。     
 装备数值现在精确到小数点后1位（舍去法），属性数值现在精确到小数点后2位（四舍五入法）。      
