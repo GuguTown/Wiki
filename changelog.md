@@ -4,6 +4,10 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/02/26    
+争夺战场开启对玩家战斗，目前试错阶段，匹配机制规则为“出击越多被攻击就越多”。      
+后续无错后会添加"出击越多,获得越多幻影等级经验值"，以平衡风险和收益。      
+
 # 2023/02/24
 宝石工坊，第五个工作台新增星沙产出。         
 
