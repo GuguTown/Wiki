@@ -24,7 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/193962270-9058a005-bdea-45fe-b21b-998bdd140792.png) [陨铁重剑](陨铁重剑.md)    
 
-![image](https://user-images.githubusercontent.com/35645329/193962396-d0351d78-1fda-49cc-93cb-d746695ab6c4.png) [饮血魔剑/长枪](饮血魔剑.md)    
+![image](https://user-images.githubusercontent.com/35645329/193962396-d0351d78-1fda-49cc-93cb-d746695ab6c4.png) [饮血魔剑/长枪](饮血魔剑.md)   
+
+![image](https://user-images.githubusercontent.com/35645329/224535595-cfe0f279-5fb8-466e-9269-25e1b6ef41ea.png) [彩金长剑](彩金长剑.md)   
+
 
 ## 手部
 
