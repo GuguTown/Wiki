@@ -4,6 +4,13 @@
 ## 讨论
 <script  src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/03/14
+PVP胜负改为“增减5%段位进度”，原“增减2%段位进度”。      
+SSS段位满进度被攻击胜利时，不再降低为99%进度。        
+
+# 2023/03/13    
+重写PVP匹配逻辑，新匹配方式大约需要2-4个小时刷新数据后进入正常运作。      
+
 # 2023/03/12
 命的“恩赐解脱”改为“计算暴击后伤害提升45%”，原“计算暴击后伤害提升75%”。
 
