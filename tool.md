@@ -9,7 +9,7 @@
 ## WebPages
 [NPC的基本数据、装备数据等](https://hazukikaguya-my.sharepoint.com/:x:/g/personal/hazukikaguya_office_inari_site/EfbRJ5KtOspKjfnbAjkT_0EBS9YAcHEh68-6XLvtCL5PoA?e=RrBvBc)   
 [桃子镇——整合各种脚本的咕咕镇非官方反代](https://github.com/HazukiKaguya/GuguTownProxy)   
-咕咕镇对战模拟器（2022-11-05） 【[在线页面](/src/app/fygemu/)】 【[项目地址](https://github.com/hirakanaKF/fygemu)】
+咕咕镇对战模拟器 【[在线页面（Nightly）](https://hirakanakf.github.io/fygarc/fygemu.client.html)】 【[在线页面（2022-11-05）](./src/app/fygemu/)】 【[项目地址](https://github.com/hirakanaKF/fygemu)】
 
 ## 油猴脚本
 [咕咕镇主题包管理器](https://greasyfork.org/scripts/450204)   
