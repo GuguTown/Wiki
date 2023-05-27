@@ -5,6 +5,9 @@
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
 # 2023/05/27 #
+反弹伤害现在受到的物理伤害与魔法伤害一样，都计算70%伤害。不再对绝对伤害计算反弹。<br><br>
+
+# 2023/05/27 #
 许愿池修正了“单项满级时频繁被提示重新许愿”的问题，增加了黑色词条保底。在确认修改无BUG后，后续再增加新的黑色词条。<br><br>
 “冥”的技能“生命掠夺”改为“恢复50%(自身已损失生命值)，造成100%(自身已损失生命值)的魔法伤害”<br>
 原“掠夺对方生命回复自身，恢复自身为满生命值状态，造成100%(自身最大生命值-自身当前生命值)的魔法伤害”。<br>
