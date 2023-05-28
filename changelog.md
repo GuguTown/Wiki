@@ -4,6 +4,13 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/05/28 #
+反弹伤害现在计算50%的绝对伤害。<br><br>
+增加争夺等级1200、1300、1400加成效果。<br><br>
+增加装备“猎魔耳环”。<br><br>
+<span class="fyg_f14">从现在截至6月4日，发表主题帖分析近期更新改动和提出建议的玩家，会选出不少于3位，每人赠送100星沙(6月5日发放)。</span><br>
+（反馈和奖励的方式和数值都处于试水阶段，后续可能但不限于尝试留言板、微信QQ群、投票等方式作为长期反馈方式）<br><br>
+
 # 2023/05/27 #
 反弹伤害现在受到的物理伤害与魔法伤害一样，都计算70%伤害。不再对绝对伤害计算反弹。<br><br>
 
