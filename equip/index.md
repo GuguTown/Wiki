@@ -63,7 +63,9 @@
  
 ![image](https://user-images.githubusercontent.com/35645329/193962562-baada598-5a16-49e8-84ef-6e0950874a58.png) [占星师的耳饰/发饰](占星师的耳饰.md)    
 
-![image](https://user-images.githubusercontent.com/35645329/193962529-ddeb0ffc-4f88-47c3-b021-2b0167beb1cf.png) [萌爪耳钉/天使缎带](萌爪耳钉.md)     
+![image](https://user-images.githubusercontent.com/35645329/193962529-ddeb0ffc-4f88-47c3-b021-2b0167beb1cf.png) [萌爪耳钉/天使缎带](萌爪耳钉.md)   
+
+![image](https://user-images.githubusercontent.com/26247398/244909341-2d73acdd-3373-4704-b161-c439e21767d4.gif) [猎魔耳环](猎魔耳环.md)
 
 ![image](https://user-images.githubusercontent.com/35645329/193962583-2f338af2-eab7-463a-8e0d-fd31866c88a6.png) [樱桃头饰](樱桃头饰.md)    
 
