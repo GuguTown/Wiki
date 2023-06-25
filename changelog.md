@@ -4,6 +4,13 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/06/24 -2 #
+锻造装备的保底机制不再受段位变化影响。<br>
+（保底次数不再受锻造自身以外的任何因素影响，请不用再怀疑自己的保底被系统黑了~~）<br>
+
+# 2023/06/24 #
+修复了PVP时匹配对手待选池错误导致的轮空问题。<br>
+
 # 2023/06/10 #
 体能刺激药水的刷新条件从“至少获得1枚狗牌”改为“至少出击5次”（原因是看到一个让人沉默的帖子，然后发现修改只涉及2行代码，就改了）。<br>
 增加1500级争夺等级效果。<br><br>
