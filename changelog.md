@@ -4,6 +4,9 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/07/09 #
+战斗界面显示简化的历史战斗记录。<br>
+
 # 2023/07/08 #
 角色卡片“雅”不再计算胜场变身为凶神。<br>
 “雅”的“凶神潜质”改为“逐渐疯狂”：“双方每次攻击，就为雅增加(7%物理攻击力和7%魔法攻击力)的攻击附加伤害，该附加伤害只在雅的攻击回合有效”。<br>
