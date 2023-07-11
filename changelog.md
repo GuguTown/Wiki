@@ -4,6 +4,14 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/07/10 #
+“梦”的“占星之芒”<br>
+改为：...每次攻击附带星芒*(3%自身护盾最大值+3%魔法攻击)的魔法伤害...<br>
+原：...每次攻击附带(星芒层数对应的魔法伤害)，每层星芒的伤害为自身护盾最大值的3%...<br><br>
+“梦”的“星轮逆转”<br>
+改为：...造成(星芒*魔法攻击*25%)的魔法伤害...<br>
+原：...造成(星芒*魔法攻击*20%)的魔法伤害...<br>
+
 # 2023/07/09 #
 战斗界面显示简化的历史战斗记录。<br>
 
