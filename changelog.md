@@ -4,6 +4,9 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/07/25 #
+增加PVP的随机对手选择范围，一定程度降低重复对手出现概率。<br>
+
 # 2023/07/10 #
 “梦”的“占星之芒”<br>
 改为：...每次攻击附带星芒\*(3%自身护盾最大值+3%魔法攻击)的魔法伤害...<br>
