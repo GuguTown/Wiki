@@ -4,6 +4,12 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/08/11 #
+天赋“波澜不惊”改为“生命值和护盾值均大于70%时，附带30%固定魔法穿透”，原“自身生命值100%时，附带32%固定魔法穿透”。<br>
+1400级争夺等级加成改为“....每点智力 +45护盾值”，原“....每点智力 +62护盾值”<br>
+BVIP/SVIP每日免费打卡包不再限定段位，只要有对应VIP就能领。<br>
+暂停PVE，重做中...<br>
+
 # 2023/07/25 #
 增加PVP的随机对手选择范围，一定程度降低重复对手出现概率。<br>
 
