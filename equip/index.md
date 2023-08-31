@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/224535595-cfe0f279-5fb8-466e-9269-25e1b6ef41ea.png) [彩金长剑](彩金长剑.md)   
 
-[清澄长杖](清澄长杖.md) 
+![image](https://user-images.githubusercontent.com/26247398/264512174-84b66a25-963a-4309-872c-b1acb3b96452.gif) [清澄长杖](清澄长杖.md) 
 
 ## 手部
 
