@@ -42,6 +42,8 @@
 
 ![image](https://user-images.githubusercontent.com/35645329/193947407-cdc6cb47-564a-43a7-9676-dd866820aa66.png) [噬魔戒指](噬魔戒指.md)   
 
+![image](https://user-images.githubusercontent.com/26247398/271805958-6bf6f589-b90c-4805-9d48-5485e79f8166.gif) [折光戒指](折光戒指.md)  
+
 ## 身体
 
 ![image](https://user-images.githubusercontent.com/35645329/193943906-8a3b2c16-6e0f-43ec-a893-734cb3405109.png) [探险者铁甲](探险者铁甲.md)   

@@ -4,6 +4,13 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/09/30 #
+新增装备“折光戒指”。<br>
+<br>
+[限时活动][10.1-10.7]任何抽牌结果都强制获得传奇奖励。<br>
+<br>
+PVE部分暂未完成，10.1期间的更新将全部是现有系统内容，但由于程序部分已经大量增加了PVE部分的代码，如被误触发导致意外BUG，请见谅。<br>
+
 # 2023/09/09 #
 新PVE重做进度不足，暂时恢复争夺战场“攻击野怪”。<br>
 攻击野怪会降低被玩家攻击的被动PVP概率，当日攻击野怪次数越多越不会被玩家攻击。<br>
