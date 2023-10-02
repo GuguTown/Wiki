@@ -4,6 +4,11 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/10/01 #
+“折光戒指”神秘属性改为“攻击满血满盾的对手会恢复先兆感知”，原“自己出手并不会消耗掉先兆感知”。<br>
+<br>
+新增装备“凶神耳环”。<br>
+
 # 2023/09/30 #
 新增装备“折光戒指”。<br>
 <br>
