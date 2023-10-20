@@ -4,6 +4,11 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2023/10/19 #
+争夺等级 1300级 效果改为“...每点力量 +25生命值”，原“...每点力量 +30生命值”。<br>
+<br>
+新增等级 1600级 效果。<br>
+
 # 2023/10/01 #
 “折光戒指”神秘属性改为“攻击满血满盾的对手会恢复先兆感知”，原“自己出手并不会消耗掉先兆感知”。<br>
 <br>
