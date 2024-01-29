@@ -4,6 +4,11 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/01/29 #
+重写争夺等级加成，现在加成不再限定加点方式，而是等级达到则自动满足所有加成。<br>
+本次改动为临时过渡，暂时去掉一些不可控的极端加成，后续会改为天赋选择的形式。<br>
+PS：依然准备PVE模式中，PVE会是一个更加挂机的模式，甚至不需要每天进入咕咕镇。<br>
+
 # 2023/10/19 #
 争夺等级 1300级 效果改为“...每点力量 +25生命值”，原“...每点力量 +30生命值”。<br>
 <br>
