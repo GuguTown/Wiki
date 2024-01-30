@@ -4,6 +4,9 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/01/29 -2 #
+修正争夺等级加成的上限显示错误，实际加成是没有此错误的。<br>
+
 # 2024/01/29 #
 重写争夺等级加成，现在加成不再限定加点方式，而是等级达到则自动满足所有加成。<br>
 本次改动为临时过渡，暂时去掉一些不可控的极端加成，后续会改为天赋选择的形式。<br>
