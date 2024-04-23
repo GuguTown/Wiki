@@ -4,6 +4,11 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/04/23 #
+战斗记录不再显示对手装备。<br>
+装备“凶神耳环”的第三条属性描述错误修正。<br>
+装备“凶神耳环”的神秘效果不再能在“雅”以外的角色生效。<br>
+
 # 2024/02/27 #
 装备“折光戒指”第四条属性整体降低28.5%。<br>
 天赋“荧光护盾”改为“受到的伤害减免20%”，原“受到的物理/魔法伤害减免20%”。<br>
