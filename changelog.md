@@ -4,6 +4,12 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/06/08 #
+“希”的技能“残忍冲动”改为“吸血+10%...”，原“生命值+10%...”。<br>
+“希”的技能“血之狂暴”改为“每(2000成长值)增加1%最大生命值...”，原“增加(成长值x1)的最大生命值...”。<br>
+<br>
+许愿池今天本来是要加阶段性奖励的，晚上九点才从医院回来，只能先这么多了。<br>
+
 # 2024/06/07 #
 修复装备“凶神耳环”的神秘效果不对“雅”生效的BUG。<br>
 增加许愿池基础属性的上限。<br>
