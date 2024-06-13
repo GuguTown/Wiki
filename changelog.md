@@ -4,6 +4,10 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/06/12 #
+修正最终暴击概率被降低1%的BUG。<br>
+修正最终技能概率被降低1%的BUG。<br>
+
 # 2024/06/11 #
 去掉一个错误出现的调试数据。<br>
 现在减治疗/护盾的最小值为-100%，而非之前的无下限。<br>
