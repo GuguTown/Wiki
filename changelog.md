@@ -4,6 +4,12 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2024/06/13 #
+修正许愿池的天赋加成效果无法在防守方生效的BUG。<br>
+天赋“鲜血渴望”原描述错误文字修正“...10%的回血效果...”，新增“...10%的回盾效果”。<br>
+<br>
+往期更新说明：“减治疗/护盾的最小值为-100%”是最终效果不能低于-100%，举例“5000回血不会因为最终-110%减治疗，而导致每回合-500血”，这是一个防溢出设定，只针对极端情况。<br>
+
 # 2024/06/12 #
 修正最终暴击概率被降低1%的BUG。<br>
 修正最终技能概率被降低1%的BUG。<br>
