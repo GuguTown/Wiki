@@ -4,7 +4,7 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
-# 2024/06/12 #
+# 2024/06/15 #
 修正，暴击时有1%概率不触发（装备、天赋、角色技能）对应的暴击效果。<br>
 许愿池两个黄色词条（生命值上限/护盾值上限）增加阶段性奖励。<br>
 
