@@ -4,6 +4,15 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
+# 2025/01/24 #
+降低遇到对手“随机对手近日无胜...”的情况，需要1小时左右起效（这个就是遇到纯PVE玩家了，对方没有近期PVP数据）。<br>
+翻牌现在需要获得3枚狗牌。<br>
+PVP和PVE胜利都可以获得1狗牌。<br>
+现在根据段位内人数动态调整对手强度。<br>
+例：SSS段标准人数100人，实际人数假设150人，PVP时对手+1强化等级。<br>
+例2：BBB段标准人数500人，实际人数假设300人，PVP时自身+4强化等级。<br>
+增加了PVE时野怪动态升/降级的速率，让它的等级能更迅速的匹配实时胜率。<br>
+
 # 2025/01/13 #
 现在无需狗牌就可以直接翻牌（临时，结束时间不定）<br>
 
