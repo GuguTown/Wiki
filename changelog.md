@@ -4,7 +4,7 @@
 ## 讨论
 <script src="https://utteranc.es/client.js" repo="GuguTown/Discuss" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
 
-# 2025/01/24 #
+# 2026/08/02 #
 增加新角色卡片“绮”，8月1日-8月31日任意登录（角色卡片列表页面）自动获取。<br>
 角色卡片等级初始值改为800，现存等级不足的玩家自动升级至800级。<br>
 角色卡片胜率表暂时不更新。<br>
